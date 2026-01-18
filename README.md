@@ -90,7 +90,5 @@ Here are some cool things I've been building, with a special focus on **Generati
 ---
 
 <div align="center">
-  <i>"The best way to predict the future is to invent it."</i>
-  <br><br>
   <a href="https://mnunes.xyz/">Visit my Official Portfolio to see more! 🌐</a>
 </div>
