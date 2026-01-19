@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/Lin-Marcos_Nunes-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-n-80014380/)
+  [![LinkedIn](https://img.shields.io/badge/Linkedin-Marcos_Nunes-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-n-80014380/)
   [![Website](https://img.shields.io/badge/Website-mnunes.xyz-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnunes.xyz/)
   [![Blog](https://img.shields.io/badge/Blog-blog.mnunes.xyz-FF4500?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.mnunes.xyz/)
   [![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@mnunes.xyz)
