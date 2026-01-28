@@ -25,6 +25,17 @@ When I'm not coding or studying tech, you'll find me:
 
 ---
 
+### 🏆 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/itil.png" width="120" alt="ITIL Foundation" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/scrum.png" width="120" alt="Scrum Fundamentals" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/az-900.png" width="120" alt="AZ-900 Azure Fundamentals" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/ai900.png" width="120" alt="AI-900: Azure AI Fundamentals" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/copilot.png" width="120" alt="GitHub Copilot" /></a>
+</div>
+
+---
 ### 🛠️ Tech Stack & Tools
 
 My toolbox for building the future:
@@ -67,8 +78,8 @@ Here are some cool things I've been building, with a special focus on **Generati
 
 | Project | What is it? | Stack |
 | :--- | :--- | :--- |
+| **⚙️ [CoinGecko MCP Server](https://www.npmjs.com/package/mcp_coingecko_price_ts)** | A MCP Server to get cryptocurrency price | `TypeScrpto` `MCP` `NPM Packge` |
 | **🥗 [NutriAI](https://mnunes.xyz/)** | Daily meal evaluator powered by AI | `NodeJS` `Gemini` `Tailwind` |
-| **🍳 [ChefIA](https://mnunes.xyz/)** | Ingredient-based recipe generator | `NodeJS` `Gemini` `Coolify` |
 | **🎬 [My Next](https://github.com/marcosnunesmbs/mynextread)** | Book & Movie recommendations via AI | `Bootstrap 5` `Gemini API` |
 | **🤖 [BitRick](https://github.com/marcosnunesmbs/BitRick)** | Telegram Assistant Bot | `JavaScript` `Telegram API` |
 | **⚙️ [WpCreator](https://github.com/marcosnunesmbs/wpcreator)** | Open Source CLI for WordPress automation | `PHP` `CLI` |
@@ -81,16 +92,6 @@ Here are some cool things I've been building, with a special focus on **Generati
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosnunesmbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnunesmbs&layout=compact&theme=tokyonight"/>
 </div>
-
----
-
-### 🏆 Certifications
-
-* ☁️ **AZ-900 Azure Fundamentals**
-* ☁️ **AI-900: Azure AI Fundamentals**
-* 🐱 **GitHub Copilot**
-* 🔄 **ITIL Foundation**
-* 🏃 **Scrum Fundamentals**
 
 ---
 
