@@ -1,6 +1,8 @@
-![Codewars](https://www.codewars.com/users/marcosnunes/badges/micro)
+<div align="center">
+  <img src="https://www.codewars.com/users/marcosnunes/badges/micro" alt="Codewars" />
 
 # Hi, I am Marcos Nunes! 👋
+</div>
 
 <div align="center">
 
