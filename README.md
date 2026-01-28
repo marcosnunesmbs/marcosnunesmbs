@@ -86,8 +86,9 @@ Here are some cool things I've been building, with a special focus on **Generati
 
 ### 🏆 Certifications
 
+* ☁️ **AZ-900 Azure Fundamentals**
 * ☁️ **AI-900: Azure AI Fundamentals**
-* 🐱 **GitHub Copilot Badge**
+* 🐱 **GitHub Copilot**
 * 🔄 **ITIL Foundation**
 * 🏃 **Scrum Fundamentals**
 
