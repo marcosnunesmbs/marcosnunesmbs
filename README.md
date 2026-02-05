@@ -101,8 +101,8 @@ Here are some cool things I've been building, with a special focus on **Generati
 | Project                                                                             | What is it?                              | Stack                            |
 | :---------------------------------------------------------------------------------- | :--------------------------------------- | :------------------------------- |
 | **⚙️ [CoinGecko MCP Server](https://www.npmjs.com/package/mcp_coingecko_price_ts)** | A MCP Server to get cryptocurrency price | `TypeScript` `MCP` `NPM Package` |
-| **🥗 [NutriAI](https://mnunes.xyz/)**                                               | Daily meal evaluator powered by AI       | `NodeJS` `Gemini` `Tailwind`     |
-| **🎬 [My Next](https://github.com/marcosnunesmbs/mynextread)**                      | Book & Movie recommendations via AI      | `Bootstrap 5` `Gemini API`       |
+| **🥗 [NutriAI](https://nutri.mnunes.xyz/)**                                               | Daily meal evaluator powered by AI       | `NodeJS` `Gemini` `Tailwind`     |
+| **🎬 [My Next](https://mynext.mnunes.xyz)**                      | Book & Movie recommendations via AI      | `Bootstrap 5` `Gemini API`       |
 | **🤖 [BitRick](https://github.com/marcosnunesmbs/BitRick)**                         | Telegram Assistant Bot                   | `JavaScript` `Telegram API`      |
 | **⚙️ [WpCreator](https://github.com/marcosnunesmbs/wpcreator)**                     | Open Source CLI for WordPress automation | `PHP` `CLI`                      |
 
