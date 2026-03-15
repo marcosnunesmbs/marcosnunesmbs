@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.codewars.com/users/marcosnunes/badges/micro" alt="Codewars" />
+  <!-- <img src="https://www.codewars.com/users/marcosnunes/badges/micro" alt="Codewars" /> -->
 
 # Hi, I am Marcos Nunes! 👋
 
