@@ -49,11 +49,11 @@ When I'm not coding or studying tech, you'll find me:
 ### 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/itil.png" width="120" alt="ITIL Foundation" /></a>
-  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/scrum.png" width="120" alt="Scrum Fundamentals" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/img/badges/itil.png" width="120" alt="ITIL Foundation" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/img/badges/scrum.png" width="120" alt="Scrum Fundamentals" /></a>
   <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/az-900.png" width="120" alt="AZ-900 Azure Fundamentals" /></a>
-  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/ai900.png" width="120" alt="AI-900: Azure AI Fundamentals" /></a>
-  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/assets/img/badges/copilot.png" width="120" alt="GitHub Copilot" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/img/badges/ai900.png" width="120" alt="AI-900: Azure AI Fundamentals" /></a>
+  <a href="https://www.credly.com/users/mnunes/badges#credly"><img src="https://mnunes.xyz/img/badges/copilot.png" width="120" alt="GitHub Copilot" /></a>
 </div>
 
 ---
