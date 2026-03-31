@@ -38,8 +38,8 @@ When I'm not coding or studying tech, you'll find me:
 
 ### Wake Up,</br> Developer.
 
-**Morpheus** is a local-first AI operator that bridges developers and machines.
-Connect LLMs, local tools, and MCPs via **Terminal**, **Telegram**, and **Discord** (soon).
+**Morpheus** is A local-first AI operator that runs as a daemon on your machine 
+— orchestrating LLMs, MCP tools, Google Workspace, and persistent memory across 5 channels simultaneously ("UI", "API", **Terminal**, **Telegram**, and **Discord**).
 
 [🌐 Visit Official Website](https://morpheusproject.xyz/)
 
